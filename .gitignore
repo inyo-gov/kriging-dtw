@@ -6,6 +6,8 @@
 
 # Allow specific directories and file types
 !images/
+!images/*.png  
+
 !data/
 !data/*.csv
 
