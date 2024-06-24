@@ -1,6 +1,6 @@
-# Kriging Depth to Water (DTW) Project
+# Kriging Depth to Water (DTW)
 
-This project involves creating depth to water (DTW) raster surfaces using empirical Bayesian kriging and summarizing the DTW over a polygon feature class using zonal statistics. The results can be exported to a CSV file and visualized in ArcGIS Pro.
+This project involves 1) creating depth to water (DTW) raster surfaces using empirical Bayesian kriging and 2) averaging raster cell values within vegetation polygons using arcpy zonal statistics. The results can be exported to a CSV file and visualized in ArcGIS Pro.
 
 ## Getting Started
 
